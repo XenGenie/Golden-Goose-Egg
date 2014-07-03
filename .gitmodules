@@ -1,0 +1,6 @@
+[submodule "xPowerMagnet"]
+	path = xPowerMagnet
+	url = https://github.com/SuperDomX/xPowerMagnet
+[submodule "xTitan"]
+	path = xTitan
+	url = https://github.com/SuperDomX/xTitan
